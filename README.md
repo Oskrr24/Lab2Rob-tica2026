@@ -56,13 +56,14 @@ Además de que cada experimento se realizó en un tiempo aproximado en 60 segund
 
 Para ejecutar la simulación, es necesario tener Python instalado en el dispositivo.
 
-*Disclaimer: Se recomienda guardar una copia del mundo en otro lugar, esto en caso de su modifiación.
+*Disclaimer: Se recomienda guardar una copia del mundo en otro lugar, esto en caso de su modificación.
 
-1. Abrir Webots
-2. File → Open world → seleccionamos el archivo del mundo personalizado
-3. Cargamos el mundo
-4. En el panel izquierdo, seleccionamos el e-puck que se quiere probar, el del escenario simple o complejo y hacemos click en “controller” → “Select”, para seleccionar el que dice “e-puckPY” → OK, guardamos y preparamos para la simulación
-5. Para probar distintos algoritmos, en “controller” cambiamos el controlador al algortimo que se quiera probar. Si se quiere editar el código, en “controller” al lado de “Select”, presionamos “Edit” y seleccionamos el código en la carpeta, luego se abrirá en el panel derecho.
+1. Descargar el zip de GitHub
+2. Descomprimir Lab2Robotica.rar
+3. Entrar en al carpeta → worlds → abrir e-puck.wbt con Webots
+4. Cargamos el mundo
+5. En el panel izquierdo, seleccionamos el e-puck que se quiere probar, el del escenario simple o complejo y hacemos click en “controller” → “Select”, para seleccionar el que dice “e-puckPY” → OK, guardamos y preparamos para la simulación
+6. Para probar distintos algoritmos, en “controller” cambiamos el controlador al algortimo que se quiera probar. Si se quiere editar el código, en “controller” al lado de “Select”, presionamos “Edit” y seleccionamos el código en la carpeta, luego se abrirá en el panel derecho.
 
 **Ejemplo de simulación simple**
 
